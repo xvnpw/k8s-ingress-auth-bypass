@@ -1,3 +1,12 @@
+# Presentation
+
+From:
+
+* BSides Krakow 2022
+* The Hack Summit 2022
+
+[Get presentation](Bypassing%20external%20authentication%20in%20ingress-nginx.pptx)
+
 # Installation
 
 * install minikube
